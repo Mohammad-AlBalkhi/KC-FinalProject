@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866947875542",
+    "project_id": "layla-2b912",
+    "storage_bucket": "layla-2b912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866947875542:android:52c3c5495ca4b3e4e37f77",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866947875542-9u9609o8bfeeirvt6g78ne1jgsbcvg8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAixH8jflMt2uwYYQS9F4aF4UEOLLGKZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866947875542-9u9609o8bfeeirvt6g78ne1jgsbcvg8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
